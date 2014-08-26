@@ -16,7 +16,7 @@ body{
 div{
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
-	font-family:MegaKid,"trebuchet ms";
+	font-family:MegaKid,"trebuchet ms",courier;
 }
 #layout{
 	position:absolute;
